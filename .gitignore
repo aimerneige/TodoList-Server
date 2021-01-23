@@ -4,3 +4,6 @@ node_modules/*
 nohup.out
 # ignore mysql database config
 src/config/db.js
+# ignore idea folder
+.idea/*
+
