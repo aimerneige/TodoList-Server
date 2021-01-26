@@ -1,7 +1,7 @@
 {
-  "name": "node_json_api_template",
+  "name": "todolist-server",
   "version": "1.0.0",
-  "description": "Template to build API with nodejs express and mysql",
+  "description": "An simple API for Android APP TodoList.",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
