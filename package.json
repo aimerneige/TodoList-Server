@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aimerneige/node_json_api_template.git"
+    "url": "git+https://github.com/aimerneige/TodoList-Server.git"
   },
   "author": "AimerNeige",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/aimerneige/node_json_api_template/issues"
+    "url": "https://github.com/aimerneige/TodoList-Server/issues"
   },
-  "homepage": "https://github.com/aimerneige/node_json_api_template#readme",
+  "homepage": "https://github.com/aimerneige/TodoList-Server#readme",
   "dependencies": {
     "express": "^4.17.1",
     "mysql": "^2.18.1"
